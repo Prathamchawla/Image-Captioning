@@ -1,4 +1,5 @@
-tensorflow == 2.17.0
-pillow
-pickle
+tensorflow==2.17.0
+Pillow
+pickle5  
 numpy
+streamlit
