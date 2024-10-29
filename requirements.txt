@@ -1,5 +1,4 @@
 tensorflow==2.17.0
-Pillow
-pickle5  
+Pillow 
 numpy
 streamlit
